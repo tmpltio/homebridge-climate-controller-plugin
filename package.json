@@ -1,0 +1,15 @@
+{
+  "name": "homebridge-climate-controller-plugin",
+  "version": "0.1.0",
+  "description": "Apartment climate controller Homebridge plugin",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": "^18.20.4 || ^20.18.0 || ^22.10.0",
+    "homebridge": "^1.8.0 || ^2.0.0-beta.0"
+  },
+  "author": "tmplt.io"
+}
